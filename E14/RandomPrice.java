@@ -3,8 +3,8 @@ package class19.E14;
 import java.util.Random;
 
 public class RandomPrice {
-    public double result(){
+    public float result(){
         Random generator = new Random();
-        return generator.nextDouble(10,19.96);
+        return generator.nextFloat(1);
     }
 }
