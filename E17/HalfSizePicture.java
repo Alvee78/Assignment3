@@ -1,2 +1,4 @@
-package class19.E17;public class HalfSizePicture {
+package class19.E17;
+
+public class HalfSizePicture {
 }
